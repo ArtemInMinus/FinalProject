@@ -7,6 +7,10 @@
 - Библиотека Numpy
 - Библиотека keras
 - Библиотека PIL
+- Библиотека discord
+- Библиотека os
+- Библиотека requests
+- Библиотека random
 
 ## Референсы, которые мне пригодятся
 - Референс https://github.com/ArtemInMinus/IFEM-Identifier-of-false-and-edible-mushrooms.-

@@ -1,0 +1,5 @@
+0 karton
+1 makulatura
+2 pishothodiy
+3 plastik
+4 steklo
